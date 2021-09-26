@@ -1,7 +1,7 @@
 # Developer-ponits-Assignment-8
 
 
- [live site Link](https://developer-points-react-assignment-8.netlify.app/).
+ [live site Link](https://developer-points-react-assignment-8.netlify.app/)
 
 ## Available Scripts
 * React.js 

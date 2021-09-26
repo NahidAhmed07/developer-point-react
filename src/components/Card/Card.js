@@ -17,7 +17,7 @@ const Card = (props) => {
           <h5 className="card-title text-center"> {name}</h5>
           <h6 className="card-text">Skills: {skill}</h6>
           <h6>Experience : {experience}</h6>
-          <h6>Salary :  &#2547; {salary}</h6>
+          <h6>Salary : $ {salary}</h6>
           <h6>Country : {country}</h6>
           {/* display rating using react rating  */}
            <h6>Rating : <Rating

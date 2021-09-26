@@ -17,7 +17,7 @@ const Cart = (props) => {
             <div key={key} className='single-item '>
                 <h6><img className='single-item-img' src={img} alt="" /> {name}</h6>
               
-              <h6>&#2547; {salary}</h6>
+              <h6>${salary}</h6>
             </div>
           )
         })
@@ -27,7 +27,7 @@ const Cart = (props) => {
       {/* display total cost  */}
        <div className='d-flex justify-content-between'>
         <h6>Total</h6>
-        <h6>&#2547; {total}</h6>
+        <h6>$ {total}</h6>
       </div> 
     </div>
   );
