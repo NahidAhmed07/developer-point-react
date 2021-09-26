@@ -45,15 +45,9 @@ const Main = () => {
         </div>
             {/* Cart section  */}
         <aside className='col-lg-3 col-md-6 col-sm-12'>
-          <Cart
-          carts={carts}
-          ></Cart>
-
+          <Cart carts={carts}></Cart>
         </aside>
-
-      </section>
-      
-      
+      </section>  
     </main>
   );
 };

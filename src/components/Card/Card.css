@@ -7,11 +7,11 @@
 }
 
 .card{
-  background: rgb(206, 206, 206);
+  background: rgb(226, 226, 226);
 }
 
 .rating-icon{
-  color: goldenrod;
+  color: #ffbb29;
 }
 
 .social-icon-parent{
@@ -25,7 +25,7 @@
   cursor: pointer;
 }
 .social-icon{
-  color: #1A1E22;
+  color: #383838;
 }
 .social-icon:first-child:hover{
   color: #2b58b3;

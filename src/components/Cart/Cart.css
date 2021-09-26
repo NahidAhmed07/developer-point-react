@@ -1,0 +1,19 @@
+.cart-main{
+  color: white;
+  position: sticky;
+  top: 100px;
+
+}
+
+.single-item {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.single-item-img{
+width: 30px;
+border-radius: 100%;
+margin-right: 10px;
+}
+

@@ -27,20 +27,18 @@ const Card = (props) => {
             initialRating={rating}
             readonly
           ></Rating></h6>
+          {/* social icon  */}
           <div className='social-icon-parent'>
             <i className="fab fa-facebook-square social-icon"></i>
             <i className="fab fa-twitter-square social-icon"></i>
             <i className="fab fa-linkedin social-icon"></i>
             <i className="fab fa-instagram-square social-icon"></i>
             <i className="fab fa-github-square social-icon"></i>
-
           </div>
-
-
         </div>
         {/* add or selected button  */}
       <div className="card-footer text-center">
-        <button onClick={()=> addBtnHandelar(programmer)} className='btn btn-danger text-center'> <i className="fab fa-opencart"></i> select for Hire</button>
+        <button onClick={()=> addBtnHandelar(programmer)} className='btn btn-secondary text-center'> <i className="fab fa-opencart"></i> select for Hire</button>
       </div>
     </div>
   </div>

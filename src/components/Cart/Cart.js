@@ -1,4 +1,5 @@
 import React from 'react';
+import './Cart.css'
 
 const Cart = (props) => {
   const { carts } = props;
@@ -6,15 +7,17 @@ const Cart = (props) => {
   const total = carts.reduce((pre, cart)=> pre + cart.salary,0)
 
   return (
-    <div style={{color:'white', position:'sticky', top:'100px'}}>
+    <div className='cart-main' >
       <h4>Total Selected: {carts.length}</h4>
       {
         // display single programmer name and sallry
-        carts.map((cart, index) => {
+        carts.map((cart) => {
+          const {name, salary,img,key} = cart
           return (
-            <div className='d-flex justify-content-between'>
-              <h6>{index + 1}. {cart.name}</h6>
-              <h6>&#2547; {cart.salary}</h6>
+            <div key={key} className='single-item '>
+                <h6><img className='single-item-img' src={img} alt="" /> {name}</h6>
+              
+              <h6>&#2547; {salary}</h6>
             </div>
           )
         })
@@ -25,10 +28,7 @@ const Cart = (props) => {
        <div className='d-flex justify-content-between'>
         <h6>Total</h6>
         <h6>&#2547; {total}</h6>
-      </div>
-
-
-      
+      </div> 
     </div>
   );
 };
