@@ -1,0 +1,44 @@
+
+.cart-img{
+  height: 170px;
+  width: 160px;
+  margin:  0 auto;
+  padding-top: 10px;
+}
+
+.card{
+  background: rgb(206, 206, 206);
+}
+
+.rating-icon{
+  color: goldenrod;
+}
+
+.social-icon-parent{
+  margin-top: 8px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.social-icon{
+  font-size:28px;
+  transition: color 0.2s ease-in-out;
+  cursor: pointer;
+}
+.social-icon{
+  color: #1A1E22;
+}
+.social-icon:first-child:hover{
+  color: #2b58b3;
+}
+.social-icon:nth-child(2):hover{
+  color: #4DA6E9;
+}
+.social-icon:nth-child(3):hover{
+  color: #0077b5;
+}
+.social-icon:nth-child(4):hover{
+  color: #BE4A4B;
+}
+.social-icon:nth-child(5):hover{
+  color: #1A1E22;
+}

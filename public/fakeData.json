@@ -1,0 +1,155 @@
+[
+  {
+    "name":"Rohit Sharma",
+    "img":"https://blog.shortpixel.com/wp-content/uploads/2016/12/Roland-profil-300px.jpg",
+    "skill":"Angular.js",
+    "experience":"3 year",
+    "salary":55000,
+    "country":"India",
+    "rating":5,
+    "key":"k101012E"
+  },
+  {
+    "name":"Jonh Keain",
+    "img":"https://geist.re/_media/pub:about_us:sbk-face.jpeg?w=120&tok=6a5845",
+    "skill":"Angular.js",
+    "experience":"4 year",
+    "salary":20000,
+    "country":"Chaina",
+    "rating":5,
+    "key":"k101010E"
+  },
+  {
+    "name":"Nahid Ahmed",
+    "img":"https://scontent.fdac90-1.fna.fbcdn.net/v/t1.6435-9/191577717_305832597687463_4995962132414991476_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_ohc=oeFSG7O7alEAX_m3e0e&_nc_ht=scontent.fdac90-1.fna&oh=353d9fe25e285677c6792b98348d7252&oe=6175DDA7",
+    "skill":"react.js ",
+    "experience":"2 year",
+    "salary":70000,
+    "country":"Bangladesh",
+    "rating":4,
+    "key":"k101011E"
+  },
+  {
+    "name":"Raihan Kawsar",
+    "img":"https://competition.adesignaward.com/designer/442fab9ba579c60421844779d560305188e055b5-big.jpg",
+    "skill":"vue.js and Bootstrap",
+    "experience":"2 year",
+    "salary":25000,
+    "country":"Bangladesh",
+    "rating":4.5,
+    "key":"k101013E"
+  },
+  {
+    "name":"Hasibul Hasan",
+    "img":"https://solarisstudios.com/wp-content/uploads/2019/07/Solaris2165_Hoek_021d_500px-300x300.jpg",
+    "skill":"Express.js",
+    "experience":"2 year",
+    "salary":25000,
+    "country":"Bangladesh",
+    "rating":4,
+    "key":"k101014E"
+  },
+  {
+      "name": "Anders Hejlsberg",
+      "img": "https://tv.ssw.com/wp-content/uploads/2018/04/Anders-Hejlsberg.jpg",
+      "skill": "react.js",
+      "experience": "2 year",
+      "salary": 20000,
+      "country": "America",
+      "rating": 4,
+      "key": "k101021E"
+    },
+    {
+      "name": "Bill Gates",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1G8UEOfgqIGO0vkBx_kFjEF3Cuo_7VZllw&usqp=CAU",
+      "skill": "vue.js",
+      "experience": "3 year",
+      "salary": 25000,
+      "country": "England",
+      "rating": 5,
+      "key": "k101022E"
+    },
+    {
+      "name": "Elon Mask",
+      "img": "https://static.dezeen.com/uploads/2021/06/elon-musk-architect_dezeen_1704_col_0-300x300.jpg",
+      "skill": "Angular",
+      "experience": "2.5 year",
+      "salary": 30000,
+      "country": "Bangladesh",
+      "rating": 3,
+      "key": "k101023E"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "img": "https://www.eyerys.com/sites/default/files/mark_zuckerberg.jpg",
+      "skill": "react.js",
+      "experience": "2 year",
+      "salary": 45000,
+      "country": "USA",
+      "rating": 5,
+      "key": "k101024E"
+    },
+    {
+      "name": "Ken Thompson",
+      "img": "https://www.interraglobal.com/wp-content/uploads/2021/04/Ken-Headshot-450-by-550.png",
+      "skill": "Frontend",
+      "experience": "2 year",
+      "salary": 20000,
+      "country": "America",
+      "rating": 5,
+      "key": "k101025E"
+    },
+    {
+      "name": "Dennis Ritchie",
+      "img": "https://qt.azureedge.net/resources/authors-images-large/dennis-ritchie.jpg",
+      "skill": "MERN stack ",
+      "experience": "4 year",
+      "salary": 70000,
+      "country": "England",
+      "rating": 4,
+      "key": "k101026E"
+    },
+    {
+      "name": "Tonni Akter",
+      "img": "https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/241461498_570325831062246_7975132434383839020_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=aiPpQCxm54cAX_aSr5u&_nc_ht=scontent.fdac27-1.fna&oh=d4e5875d9e653c64104558dc0b979f9f&oe=6154FDA2",
+      "skill": "react.js",
+      "experience": "3 year",
+      "salary": 80000,
+      "country": "Bangladesh",
+      "rating": 5,
+      "key": "k101027E"
+    },
+    {
+      "name": "Linus Torvalds",
+      "img": "https://www.zdnet.com/a/hub/i/r/2018/09/17/a0c954db-2303-4f89-ba1d-f831c369b081/thumbnail/1200x1200/2f644efca44b17c255ed00c0e7dd5cae/linus-torvalds-072013.jpg",
+      "skill": "react.js",
+      "experience": "3.5 year",
+      "salary": 40000,
+      "country": "London",
+      "rating": 4,
+      "key": "k101028E"
+    },
+    {
+      "name": "Tim Berners-Lee",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXR0mXv1H_YRtBXzp3U1rf2rJJVhOp_9dcm_LWzHa_RsDYkCRy_SspNG8KPpN2T_LNTs&usqp=CAU",
+      "skill": "react.js",
+      "experience": "2 year",
+      "salary": 20000,
+      "country": "British",
+      "rating": 3.5,
+      "key": "k101029E"
+    },
+    {
+      "name": " Guido van Rossum",
+      "img": "https://avatars.githubusercontent.com/u/2894642?v=4",
+      "skill": "python",
+      "experience": "1 year",
+      "salary": 8000,
+      "country": "Bangladesh",
+      "rating": 4,
+      "key": "k101030E"
+    }
+    
+  
+  
+]
