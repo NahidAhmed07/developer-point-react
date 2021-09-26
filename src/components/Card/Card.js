@@ -14,13 +14,13 @@ const Card = (props) => {
         <img src={img} className="card-img-top cart-img rounded-circle" alt="programmer" />
         {/* display card information  */}
       <div className="card-body">
-          <h5 className="card-title">Name: {name}</h5>
+          <h5 className="card-title text-center"> {name}</h5>
           <h6 className="card-text">Skills: {skill}</h6>
-          <h6>Experience: {experience}</h6>
-          <h6>Salary:  &#2547; {salary}</h6>
-          <h6>Country: {country}</h6>
+          <h6>Experience : {experience}</h6>
+          <h6>Salary :  &#2547; {salary}</h6>
+          <h6>Country : {country}</h6>
           {/* display rating using react rating  */}
-           <h6>Rating: <Rating
+           <h6>Rating : <Rating
             emptySymbol="fa fa-star-o rating-icon"
             fullSymbol="fa fa-star rating-icon "
             fractions={2}
